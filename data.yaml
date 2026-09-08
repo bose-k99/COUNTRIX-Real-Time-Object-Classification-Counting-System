@@ -2,5 +2,5 @@ path: ./dataset
 train: images/train
 val: images/val
 
-nc: 6
-names: ['nut', 'bolt', 'coin', 'screw', 'pin', 'LED']
+nc: 4
+names: ['nut', 'bolt', 'coin', 'screw']
